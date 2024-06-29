@@ -1,0 +1,11 @@
+/* src/styles.css */
+
+body {
+    background: linear-gradient(to bottom right, #ff8a65, #ffeb3b); /* Example gradient colors */
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif; /* Specify your preferred font */
+    height: 100vh; /* Ensure full height gradient */
+    overflow: auto; /* Handle content overflow */
+  }
+  
